@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gopinath2408/Hrportal-Management-System/static/css/main.8bb97b71.css",
+    "main.js": "/Gopinath2408/Hrportal-Management-System/static/js/main.438aa1c8.js",
+    "static/js/453.e6f48f49.chunk.js": "/Gopinath2408/Hrportal-Management-System/static/js/453.e6f48f49.chunk.js",
+    "index.html": "/Gopinath2408/Hrportal-Management-System/index.html",
+    "main.8bb97b71.css.map": "/Gopinath2408/Hrportal-Management-System/static/css/main.8bb97b71.css.map",
+    "main.438aa1c8.js.map": "/Gopinath2408/Hrportal-Management-System/static/js/main.438aa1c8.js.map",
+    "453.e6f48f49.chunk.js.map": "/Gopinath2408/Hrportal-Management-System/static/js/453.e6f48f49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb97b71.css",
+    "static/js/main.438aa1c8.js"
+  ]
+}
